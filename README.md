@@ -14,7 +14,7 @@ Source code is available on [GitHub](https://github.com/bottledwhisky/XenopurgeM
 
 ## Requirements
 
-- [MelonLoader](https://melonloader.co/)
+- [MelonLoader](https://melonwiki.xyz/)
 
 ## Installation
 
